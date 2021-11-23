@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camera Canon XL",
+      "price": "1799.97"
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "price": 85000.01
+    },
+    {
+      "id": 3,
+      "name": "VIP",
+      "price": 50
+    },
+    {
+      "name": "Ryzen 5 3600x",
+      "price": "2500",
+      "id": 6
+    }
+  ]
+}
